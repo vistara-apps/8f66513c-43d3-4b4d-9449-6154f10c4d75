@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJ2aXRhbGl0eS1mZWVkLmV4YW1wbGUuY29tIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Vitality Feed",
+    "homeUrl": "https://vitality-feed.example.com",
+    "iconUrl": "https://vitality-feed.example.com/icon.png",
+    "splashImageUrl": "https://vitality-feed.example.com/splash.png",
+    "splashBackgroundColor": "#10B981",
+    "webhookUrl": "https://vitality-feed.example.com/api/webhook",
+    "subtitle": "Your Daily Dose of Health",
+    "description": "A Base MiniApp that delivers curated daily health tips and encourages consistent engagement for users seeking a healthier lifestyle.",
+    "screenshotUrls": [
+      "https://vitality-feed.example.com/screenshot1.png",
+      "https://vitality-feed.example.com/screenshot2.png",
+      "https://vitality-feed.example.com/screenshot3.png"
+    ],
+    "primaryCategory": "health",
+    "tags": ["health", "wellness", "tips", "daily", "lifestyle"],
+    "heroImageUrl": "https://vitality-feed.example.com/hero.png",
+    "tagline": "Your Daily Dose of Health, Delivered.",
+    "ogTitle": "Vitality Feed - Daily Health Tips",
+    "ogDescription": "Get curated daily health tips and track your wellness journey with Vitality Feed.",
+    "ogImageUrl": "https://vitality-feed.example.com/og-image.png",
+    "noindex": false
+  }
+}
