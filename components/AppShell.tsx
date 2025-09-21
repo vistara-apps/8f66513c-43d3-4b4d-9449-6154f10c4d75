@@ -1,6 +1,5 @@
 'use client'
 
-import { useMiniKit } from '@coinbase/minikit'
 import { ArrowLeft, Settings } from 'lucide-react'
 
 interface AppShellProps {
@@ -10,7 +9,6 @@ interface AppShellProps {
 }
 
 export function AppShell({ children, showBackButton = false, onBack }: AppShellProps) {
-  const { context } = useMiniKit();
 
   return (
     <div className="min-h-screen bg-background">
