@@ -20,7 +20,13 @@
       "https://vitality-feed.example.com/screenshot3.png"
     ],
     "primaryCategory": "health",
-    "tags": ["health", "wellness", "tips", "daily", "lifestyle"],
+    "tags": [
+      "health",
+      "wellness",
+      "tips",
+      "daily",
+      "lifestyle"
+    ],
     "heroImageUrl": "https://vitality-feed.example.com/hero.png",
     "tagline": "Your Daily Dose of Health, Delivered.",
     "ogTitle": "Vitality Feed - Daily Health Tips",

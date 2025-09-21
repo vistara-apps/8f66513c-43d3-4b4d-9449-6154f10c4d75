@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Vitality Feed",
+    "subtitle": "Built with Zara",
+    "description": "Vitality Feed is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app",
+    "splashImageUrl": "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app/image.png",
+    "tagline": "Vitality Feed",
+    "screenshotUrls": [
+      "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app/screenshot.png",
+      "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://8f66513c43d34b4d94496154f10c4d75-16io.vercel.app/api/webhook"
+  }
+}
